@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.cloud-locale-test.skip
+.local
+.pm2
+.profile
+.sudo_as_admin_successful
+node_modules/

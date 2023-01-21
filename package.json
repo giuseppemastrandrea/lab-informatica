@@ -1,0 +1,24 @@
+{
+  "name": "lab-informatica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mastrandreagiuseppe/lab-informatica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mastrandreagiuseppe/lab-informatica/issues"
+  },
+  "homepage": "https://gitlab.com/mastrandreagiuseppe/lab-informatica#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "p5": "^1.1.9",
+    "socket.io": "^3.0.4"
+  }
+}
